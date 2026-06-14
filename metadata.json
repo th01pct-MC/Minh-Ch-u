@@ -1,0 +1,8 @@
+{
+  "name": "EduResource",
+  "description": "Thư viện học liệu Tin học số dành cho giáo viên và học sinh trung học phổ thông khối 10, 11, 12.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
